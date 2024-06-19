@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suraj-prasad-rout&label=Profile%20views&color=0e75b6&style=flat" alt="suraj-prasad-rout" /> </p>
 
-- 🌱 I’m currently learning **cybersecurity,python**
+- 🌱 I’m currently learning **cybersecurity and python**
 
 - 📫 How to reach me **surajprasadrout@gmail.com**
 
