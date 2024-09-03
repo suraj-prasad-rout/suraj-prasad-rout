@@ -1,3 +1,4 @@
+<p align ="center"> <img src="https://i.gifer.com/origin/91/9152bb748a33392db9312e689ba62e1a_w200.gif" alt="suraj-prasad-rout" /> </p>
 <div style="text-align:center;">
     <img width="50%" height="50%" src="https://cdn-images-1.medium.com/v2/resize:fill:1600:480/gravity:fp:0.5:0.4/1*D7Zpqwm2nSQ7uWL5ovh-XQ.gif" alt="banner">
 </div>
@@ -5,10 +6,6 @@
 <h1 align="center">Hi 👋, I'm Suraj Prasad Rout</h1>
 <h3 align="center">A passionate Cybersecurity Enthusiast and Penetration Tester from India</h3>
 <img align="right" width="400" src="https://raw.githubusercontent.com/gist/vininjr/d29bb07bdadb41e4b0923bc8fa748b1a/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" alt="coding">
-
-<p align="left"> <img src="https://i.gifer.com/origin/91/9152bb748a33392db9312e689ba62e1a_w200.gif" alt="suraj-prasad-rout" /> </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=suraj-prasad-rout" alt="suraj-prasad-rout" /></a> </p>
-
 - 🌱 I’m currently learning **Penetration Testing, Cybersecurity, Python**
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://suraj-prasad-rout.github.io/suraj-portfolio/)
