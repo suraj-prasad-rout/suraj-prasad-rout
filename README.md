@@ -34,16 +34,16 @@
     <img src="https://www.kali.org/images/kali-dragon-icon.svg" alt="kali-linux" width="40" height="40"/> 
   </a>
   <a href="https://portswigger.net/burp" target="_blank" rel="noreferrer"> 
-    <img src="https://www.svgrepo.com/show/353916/burp-suite-icon.svg" alt="burp-suite" width="40" height="40"/> 
+    <img src="https://image.spreadshirtmedia.com/image-server/v1/compositions/T949A2PA1996PT25X5Y10D1048988355W5014H5015CxFF6633%3AxFFFFFF/views/1,width=650,height=650,appearanceId=2,backgroundColor=ffffff/burp-suite-icon.jpg" alt="burp-suite" width="40" height="40"/> 
   </a>
   <a href="https://www.wireshark.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.wireshark.org/assets/images/wireshark-logo.png" alt="wireshark" width="40" height="40"/> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Wireshark_icon_new.png" alt="wireshark" width="40" height="40"/> 
   </a>
   <a href="https://www.metasploit.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.metasploit.com/images/meta-logo-bull.png" alt="metasploit" width="40" height="40"/> 
+    <img src="https://banner2.cleanpng.com/20180524/egt/avqse6kzc.webp" alt="metasploit" width="40" height="40"/> 
   </a>
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
+    <img src="https://w7.pngwing.com/pngs/804/269/png-transparent-bootstrap-hd-logo.png" alt="bootstrap" width="40" height="40"/> 
   </a>
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
